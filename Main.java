@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Learning Git and Github!");
+        System.out.println("Hello Main branch!");
     }
 }
